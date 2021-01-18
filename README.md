@@ -13,18 +13,18 @@
  
 ### ⚙️ Stack
 ![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
-![Java](<img src=https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/)
-![JavaScript](<img src=http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/)
-![CSS](<img src=http://img.shields.io/badge/-CSS-0000FF?style=flat-square&logo=CSS3&logoColor=white&https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-![HTML](<img src=http://img.shields.io/badge/-HTML-E88726?style=flat-square&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-![PHP](<img src=http://img.shields.io/badge/-PHP-0000FF?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/)
-![Git](<img src="https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com)
-![GitHub](<img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com)
-![Docker](<img src="https://img.shields.io/badge/-Docker-0000FF?style=flat-square&logo=docker&logoColor=white&link=https://www.docker.com/)
-![BootStrap](<img src="https://img.shields.io/badge/-Bootstrap-0000FF?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)
-![MySQL](<img src="https://img.shields.io/badge/-MySQL-0000FF?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/)
-![React](<img src="https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org)
-![TypeScript](<img src=https://img.shields.io/badge/-TypeScript-0000FF?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
+![Java](https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/)
+![JavaScript](http://img.shields.io/badge/-Javascript-C5C204?style=flat-square&logo=Javascript&logoColor=white&link=https://www.javascript.com/)
+![CSS](http://img.shields.io/badge/-CSS-0000FF?style=flat-square&logo=CSS3&logoColor=white&https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+![HTML](ttp://img.shields.io/badge/-HTML-E88726?style=flat-square&logo=HTML5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+![PHP](http://img.shields.io/badge/-PHP-0000FF?style=flat-square&logo=php&logoColor=white&link=https://www.php.net/)
+![Git](https://img.shields.io/badge/-Git-FF0000?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white&link=https://github.com)
+![Docker](https://img.shields.io/badge/-Docker-0000FF?style=flat-square&logo=docker&logoColor=white&link=https://www.docker.com/)
+![BootStrap](https://img.shields.io/badge/-Bootstrap-0000FF?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)
+![MySQL](https://img.shields.io/badge/-MySQL-0000FF?style=flat-square&logo=MySQL&logoColor=white&link=https://www.mysql.com/)
+![React](https://img.shields.io/badge/-React-0000FF?style=flat-square&logo=react&logoColor=white&link=https://pt-br.reactjs.org)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0000FF?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
 
 
 
