@@ -12,7 +12,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
 ![Java](https://img.shields.io/badge/-Java-lightgrey?style=flat-square&logoColor=9cf&logo=Java)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logoColor=aaa&logo=PHP)
-![JS](https://img.shields.io/badge/-JS-yellow?style=flat-square&logoColor=aaa&logo=JS)
+![JS](https://img.shields.io/badge/-JS-yellow?style=flat-square&logoColor=yellow&logo=javascript)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact&theme=dracula)
