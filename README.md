@@ -10,13 +10,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gmarink/)](https://t.me/gmarink/)
 
 
-<a id="tech"></a>
-<details open>
-  <summary>🚀 
-    <strong>My Tech Stacks</strong>:
-  </summary>
-  
-  <br>
 
 <!-- <p align="left"> -->
 <img src=https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/>
@@ -43,7 +36,7 @@
  
 ### ⚙️ Stack
 ![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
-![Java](https://img.shields.io/badge/-Java-lightgrey?style=flat-square&logoColor=9cf&logo=Java)
+![Java](<img src=https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/"/>)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logoColor=aaa&logo=PHP)
 ![JS](https://img.shields.io/badge/-JS-cyan?style=flat-square&logoColor=yellow&logo=javascript)
 
