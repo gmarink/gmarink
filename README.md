@@ -1,6 +1,6 @@
 ## I´m Geraldo :wave:, graduated in Systems Analysis and Development!
 
-[![Image from internet](https://png.pngtree.com/thumb_back/fw800/back_our/20190614/ourmid/pngtree-dark-blue-map-business-finance-taobao-background-image_121829.jpg)]
+![Image from internet](https://png.pngtree.com/thumb_back/fw800/back_our/20190614/ourmid/pngtree-dark-blue-map-business-finance-taobao-background-image_121829.jpg)
 
 ### 🌐 Networking
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/gmarink)](https://gist.github.com/gmarink)
