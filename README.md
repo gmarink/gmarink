@@ -10,5 +10,5 @@
 ### ⚙️ Stack
 ![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=caiocichetti&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiocichetti&layout=compact&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact&theme=dracula)
