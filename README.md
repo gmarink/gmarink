@@ -10,6 +10,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gmarink/)](https://t.me/gmarink/)
 ### ⚙️ Stack
 ![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
+![Java](https://img.shields.io/badge/-Java-lightgrey?style=flat-square&logoColor=9cf&logo=Java)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logoColor=aaa&logo=PHP)
+![JS](https://img.shields.io/badge/-JS-yellow?style=flat-square&logoColor=aaa&logo=JS)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact&theme=dracula)
