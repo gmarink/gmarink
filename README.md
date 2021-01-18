@@ -36,7 +36,7 @@
  
 ### ⚙️ Stack
 ![Linux](https://img.shields.io/badge/-Linux-555859?style=flat-square&logoColor=fff&logo=linux)
-![Java](<img src=https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR/"/>)
+![Java](https://img.shields.io/badge/-Java-FF0000?style=flat-square&logo=Java&logoColor=white&link=https://www.java.com/pt_BR)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logoColor=aaa&logo=PHP)
 ![JS](https://img.shields.io/badge/-JS-cyan?style=flat-square&logoColor=yellow&logo=javascript)
 
