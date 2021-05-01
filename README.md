@@ -1,12 +1,15 @@
 ## "Hello World!" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
-<br/>
+<br />
+
 👨🏽‍💻 Usando a tecnologia para resolver problemas e salvar o dia. ;)
-<br/>
-<br/>
+<br />
+<br />
+
 I :heart: GitHub :octocat:
-<br/>
-<br/>
+
+<br />
+<br />
+
 **Languages and Tools:**   
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
