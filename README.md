@@ -2,6 +2,7 @@
 
 <br/>
 ## I :heart: GitHub :octocat:
+<br/>
 👨🏽‍💻 Minha missão é usar a tecnologia para resolver problemas.
 
 **Languages and Tools:**   
@@ -17,7 +18,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg"></code>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact)
