@@ -11,9 +11,10 @@ I :heart: GitHub :octocat:
 <br />
 
 **Languages and Tools:**   
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
@@ -23,10 +24,10 @@ I :heart: GitHub :octocat:
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&layout=compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmarink&" /></p>
