@@ -31,5 +31,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact&theme=dracula)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarshraj&" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmarink&" /></p>
+
 ![ViewCount](https://views.whatilearened.today/views/github/gmarink/views.svg)
