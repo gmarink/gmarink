@@ -1,11 +1,11 @@
 ### "Hellow World!" <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👨🏽‍💻
 
 <br/>
-**I :heart: GitHub :octocat:**
+## I :heart: GitHub :octocat:
 👨🏽‍💻 Minha missão é usar a tecnologia para resolver problemas.
 
 **Languages and Tools:**   
-<code><img height="25" src="https://raw.githubusercontent.com/gmarink/devicon/!SVG/java.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
@@ -19,8 +19,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmarink&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmarink&" /></p>
 
