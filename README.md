@@ -20,8 +20,10 @@ I :heart: GitHub :octocat:
 <code><img height="25" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"></code>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=gmarink&show_icons=true&layout=compact)
