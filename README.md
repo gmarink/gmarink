@@ -9,7 +9,7 @@ I :heart: GitHub :octocat:
 <br />
 
 **Languages and Tools:**   
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="VSCode"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgresSQL"></code>
